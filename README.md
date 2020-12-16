@@ -4,7 +4,7 @@
 
 [Link to GitHub Pages](https://mjulia111.github.io/Lots-landing-page/)
 
-##Описание
+## Описание
 
 1. верстка резиновая и адаптивная;
 2. слайдер реализован при помощи slick slider;
